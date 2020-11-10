@@ -35,7 +35,7 @@ But let's pick an example:
 - At 8.30 AM, you leave the house. Gladys detects thanks to your smartphone that you are not at home anymore, and shuts down everything inside.
 - At 6.30 PM, you are getting back home : Everything is ready when you arrive. You are going to sleep, so you simply put your phone on your nightstand where a NFC tag is sticked. It immediately sends a request to Gladys to tell here you are going to sleep. She starts the "Going to sleep" scenario, and turns off all lights.
 
-This is just a simple scenario, possibilities with Gladys are just endless. Don't hesitate to suggest yours 😉
+This is just a simple scenario, possibilities with Gladys are just endless. Don't hesitate to suggest yours. 😉
 
 ## Getting Started
 
