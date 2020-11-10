@@ -5,7 +5,7 @@
   },
   {
     "label": "light.turn-on.fail",
-    "answers": ["I didn't manage to turn on the light."]
+    "answers": ["I was unable to turn on the light."]
   },
   {
     "label": "light.turn-off.success",
@@ -13,6 +13,6 @@
   },
   {
     "label": "light.turn-off.fail",
-    "answers": ["I didn't manage to turn off the light."]
+    "answers": ["I was unable to turn off the light."]
   }
 ]
